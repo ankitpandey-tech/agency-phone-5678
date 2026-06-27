@@ -1,0 +1,8 @@
+{
+  "name": "VoiceDeskAI",
+  "description": "24/7 AI Receptionist for local businesses that answers calls, schedules appointments, and automates Google reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
